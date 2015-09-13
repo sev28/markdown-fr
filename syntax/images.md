@@ -21,7 +21,7 @@ Select the valid images:
 - [ ] `[Google logo](https://www.google.ru/logo.png)`
 - [x] `![](https://www.google.ru/logo.png)`
 
-> Images must be prefixed with an exclamation mark.
+> les images doivent commencer par un point d'exclamation.
 The alternative text and a title are optional.
 
 What is true about the following line: ```![Funny cat](http://cats.ru/funny.png "Share this")```
@@ -30,6 +30,6 @@ What is true about the following line: ```![Funny cat](http://cats.ru/funny.png 
 - [ ] if the url is 404, "Share this" will be displayed
 - [x] on mouse over the image "Share this" will be displayed
 
-> Similarly to links, images can have 3 parts: the alternative text, the url and a title. An exclamation mark is nesessary.
+> Comme les liens, les images doivent avoirs 3 parties: le texte, l'url et le titre. un point d'axlamation est nécessaire.
 
 ---
